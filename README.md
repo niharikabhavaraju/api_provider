@@ -1,6 +1,6 @@
 # README
 
-Run this api api application on port 3000 by starting rails server : rails s
+Run this  api application on port 3000 by starting rails server : rails s
 
 On accessing http://localhost:3000/products we can get the list of products,
 
