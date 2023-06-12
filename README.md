@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Run this api api application on port 3000 by starting rails server : rails s
 
-Things you may want to cover:
+On accessing http://localhost:3000/products we can get the list of products,
 
-* Ruby version
+Use postman to make post requests
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Screenshot 2023-06-12 at 4 46 36 PM](https://github.com/niharikabhavaraju/api_provider/assets/31915502/f784d986-73b9-474c-b793-d8c60c91d9cf)
